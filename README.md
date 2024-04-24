@@ -16,7 +16,7 @@ To get started with Skate 4 Progress Tracker, visit the below webpage:
 
 1. Access the app in your web browser at:
 
-
+https://note-taker-west-cb10c0a3fcaf.herokuapp.com/notes
 
 
 

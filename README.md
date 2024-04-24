@@ -3,12 +3,12 @@ Welcome to the Note Taker App, a simple yet powerful tool for taking and organiz
 
 ## Features
 
-- **Landing Page: Upon opening the Note Taker, users are presented with a landing page containing a link to the notes page.
-- **Notes Page: Clicking on the link to the notes page displays existing notes listed in the left-hand column, along with empty fields to enter a new note title and the note’s text in the right-hand column.
-- **Save and Clear Form: After entering a new note title and text, users are presented with "Save Note" and "Clear Form" buttons in the navigation at the top of the page.
-- **Saving Note: Clicking on the "Save Note" button saves the new note and displays it in the left-hand column with other existing notes. The buttons in the navigation disappear upon saving.
-- **Viewing Existing Note: Clicking on an existing note in the list in the left-hand column displays that note in the right-hand column, along with a "New Note" button in the navigation.
-- **Creating New Note: Clicking on the "New Note" button in the navigation presents users with empty fields to enter a new note title and text in the right-hand column. The button disappears upon clicking.
+- Landing Page: Upon opening the Note Taker, users are presented with a landing page containing a link to the notes page.
+- Notes Page: Clicking on the link to the notes page displays existing notes listed in the left-hand column, along with empty fields to enter a new note title and the note’s text in the right-hand column.
+- Save and Clear Form: After entering a new note title and text, users are presented with "Save Note" and "Clear Form" buttons in the navigation at the top of the page.
+- Saving Note: Clicking on the "Save Note" button saves the new note and displays it in the left-hand column with other existing notes. The buttons in the navigation disappear upon saving.
+- Viewing Existing Note: Clicking on an existing note in the list in the left-hand column displays that note in the right-hand column, along with a "New Note" button in the navigation.
+- Creating New Note: Clicking on the "New Note" button in the navigation presents users with empty fields to enter a new note title and text in the right-hand column. The button disappears upon clicking.
 
 ## Installation
 
